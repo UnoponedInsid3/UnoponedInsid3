@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UnoponedInsid3
-- 🌱 I’m currently learning python
-- thats it haha
+- Hi, I’m @UnoponedInsid3
+- I’m currently learning python
+- GODOT 4.3 Game Developing 
 
 
 <!---
